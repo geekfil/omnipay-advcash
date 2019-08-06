@@ -1,5 +1,5 @@
 {
-  "name": "aleksandrzhiliaev/omnipay-advcash",
+  "name": "geekfil/omnipay-advcash",
   "type": "library",
   "description": "Advcash gateway for Omnipay payment processing library",
   "keywords": [
